@@ -1,7 +1,7 @@
 import React from 'react';
 import Card from './Card';
 
-
+// Pure component
 const CardList = ({ robots }) => {
     return (
         <div>
